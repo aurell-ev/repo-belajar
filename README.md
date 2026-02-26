@@ -1,4 +1,4 @@
 # repo-belajar
 
-mentor : @muhammadgaga
+mentor : kak aurell
 belajar git github
